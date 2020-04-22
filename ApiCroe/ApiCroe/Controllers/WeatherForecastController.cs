@@ -10,6 +10,7 @@ namespace ApiCroe.Controllers
     [ApiController]
     [Route("[controller]")]
     //测试
+    //测试2
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
